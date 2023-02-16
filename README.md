@@ -18,5 +18,5 @@ npx react-native start --reset-cache
 npx react-native run-ios
 
 username: test@test.com
-password: 1234567890
+password: 12345678
 ```
